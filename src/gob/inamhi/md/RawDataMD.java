@@ -7,7 +7,6 @@ package gob.inamhi.md;
 import gob.inamhi.dp.ProcesadorMain;
 import gob.inamhi.util.Conexion;
 import java.sql.ResultSet;
-import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
